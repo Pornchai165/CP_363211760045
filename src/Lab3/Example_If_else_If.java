@@ -35,6 +35,7 @@ public class Example_If_else_If {
         }else if (score >= 80 && score <= 100.0) {
             System.out.println("You grade is A.");
         }else {
+            // coding here .....
             System.out.println("Over points");
         }
 
