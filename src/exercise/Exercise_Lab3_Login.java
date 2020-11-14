@@ -27,5 +27,5 @@ public class Exercise_Lab3_Login {
                 }
             }
         } while (count < 3 );
-    }
-}
+    }//main
+}//class

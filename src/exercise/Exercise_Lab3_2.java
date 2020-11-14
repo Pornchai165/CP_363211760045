@@ -11,5 +11,6 @@ public class Exercise_Lab3_2 {
             }//j
             System.out.println();
         }//i
-    }
-}
+
+    }//main
+}//class

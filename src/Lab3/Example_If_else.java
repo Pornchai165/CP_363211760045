@@ -13,8 +13,6 @@ public class Example_If_else {
         int y = Scanner.nextInt();
 
 
-
-
         //test condition
 
         if (x > y) {
@@ -24,8 +22,5 @@ public class Example_If_else {
         }
 
 
-
-
-
-    }
-}
+    }//main
+}//class

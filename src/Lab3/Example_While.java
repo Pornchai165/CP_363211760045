@@ -11,7 +11,7 @@ public class Example_While {
 
 
         while (num != 0){
-            System.out.print("Enter integers :");
+            System.out.print("Enter integers : ");
             num = sc.nextInt();
         }
 
@@ -19,5 +19,5 @@ public class Example_While {
         System.out.println("Good Bye.");
 
 
-    }
-}
+    }//main
+}//class

@@ -10,5 +10,5 @@ public class Example_StringBuffer {
         str.replace(0, 6, "MT");
         System.out.println(str.reverse());
 
-    }
-}
+    }//main
+}//class

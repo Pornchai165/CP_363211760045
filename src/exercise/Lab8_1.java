@@ -21,6 +21,6 @@ public class Lab8_1 {
         }
 
         return max;
-    }
+    }//main
 
-}
+}//class

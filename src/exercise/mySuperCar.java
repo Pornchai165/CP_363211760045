@@ -33,14 +33,9 @@ public class mySuperCar {
         displayDataObject(SC4);
 
 
-
         SuperCar SC5 = new SuperCar("BMW","Whit",400,240,"USA");
 
         displayDataObject(SC5);
-
-
-
-
 
 
     }//main
@@ -53,8 +48,6 @@ public class mySuperCar {
         System.out.println(sc.getMaxSpeed());
         System.out.println(sc.getCountryOfOrigin());
     }
-
-
 
 
 

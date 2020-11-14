@@ -26,5 +26,6 @@ public class Example_Switch_Casa {
             default: System.out.println("Please ,enter number 1-3. Thank.");
 
         }//switch
-    }
-}
+
+    }//main
+}//class

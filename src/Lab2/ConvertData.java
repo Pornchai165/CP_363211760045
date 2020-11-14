@@ -14,9 +14,6 @@ public class ConvertData {
 
 
 
-
-
-
     }//main
 
-}//c
+}//class

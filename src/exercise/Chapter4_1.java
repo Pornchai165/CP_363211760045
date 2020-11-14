@@ -33,6 +33,6 @@ public class Chapter4_1 {
 
         System.out.println("Total : " + total);
         System.out.println("Average : " + avg);
-            }
+            }//main
 
-}
+}//class

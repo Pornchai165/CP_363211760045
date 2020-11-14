@@ -20,5 +20,5 @@ public class Lab8_2 {
         System.out.println(x);
 
 
-    }
-}
+    }//main
+}//class

@@ -23,6 +23,6 @@ public class Example_StringToken {
             System.out.println(strToken.nextToken());
         }
 
-    }
+    }//main
 
-}
+}//class
